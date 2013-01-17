@@ -22,6 +22,7 @@ public class Book extends HttpServlet {
 
         Book book = new Book();
 
+        String x="123";
         //book.setTitle
 
 
